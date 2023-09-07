@@ -1,2 +1,2 @@
 # pokedex-example
-A pokedex of the original 150 pokemon using PokeAPI
+A pokedex of the pokemon of the Hoenn region using PokeAPI
